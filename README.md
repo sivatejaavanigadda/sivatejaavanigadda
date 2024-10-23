@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Siva Teja Avanigadda</h1>
 <h3 align="center">A passionate Computer Vision/AI Engineer</h3>
-(img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQE9S35rmbc0UA/article-cover_image-shrink_600_2000/0/1650040904736?e=2147483647&v=beta&t=MjjbdELHsXenO3n6qfOteFUTs2dWPs8FOiEwrgMPFf8")
+img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E12AQE9S35rmbc0UA/article-cover_image-shrink_600_2000/0/1650040904736?e=2147483647&v=beta&t=MjjbdELHsXenO3n6qfOteFUTs2dWPs8FOiEwrgMPFf8"
 
 - 🔭 I’m currently working on **Neural Network for Stereo Vision-Based 3D Localization and Implementation of a Robotic Bin Picking Cell**
 
